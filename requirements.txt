@@ -1,0 +1,6 @@
+openai
+requests
+TTS
+ffmpeg-python
+python-slugify
+python-dotenv

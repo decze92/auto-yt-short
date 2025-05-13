@@ -1,0 +1,11 @@
+auto-yt-short/
+├── .env
+├── topics.txt
+├── main.py
+├── requirements.txt
+├── output/
+│   ├── scripts/
+│   ├── audio/
+│   ├── images/
+│   ├── subs/
+│   └── video/
